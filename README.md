@@ -8,7 +8,7 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minamimishima&theme=light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-git-master-minamis-projects-83518b76.vercel.app/api/top-langs/?username=minamimishima&theme=light&layout=compact" />
 </div>
 
 <!--
