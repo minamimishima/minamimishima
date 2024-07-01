@@ -2,7 +2,7 @@
 
 - 🌱 Ruby, Ruby on Railsを中心に学習中です
 - 🌱 React, PHPの学習も始めました
-https://github-readme-stats-minamis-projects-83518b76.vercel.app/
+
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ruby,rails,react,php,docker,githubactions" />
 
