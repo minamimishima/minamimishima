@@ -2,13 +2,13 @@
 
 - 🌱 Ruby, Ruby on Railsを中心に学習中です
 - 🌱 React, PHPの学習も始めました
-
+https://github-readme-stats-minamis-projects-83518b76.vercel.app/
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ruby,rails,react,php,docker,githubactions" />
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats-git-master-minamis-projects-83518b76.vercel.app/api/top-langs/?username=minamimishima&theme=light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-minamis-projects-83518b76.vercel.app/api/top-langs/?username=minamimishima&theme=light&layout=compact" />
 </div>
 
 <!--
