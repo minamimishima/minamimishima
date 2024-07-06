@@ -6,12 +6,14 @@
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ruby,rails,react,php,docker,githubactions" />
 
+<!--
+
 ## Activities
 <div align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats-minamis-projects-83518b76.vercel.app/api/top-langs/?username=minamimishima&theme=light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-jade-omega-71.vercel.app/api/top-langs/?username=minamimishima&count_private=true&theme=light&layout=compact" />
 </div>
 
-<!--
+
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=minamimishima&theme=light&layout=compact" />
 -->
 
