@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 Ruby, Ruby on Railsを中心に学習中です
-- 🌱 React, PHPの学習も始めました
+- 🌱 勉強中です！
 
+<!--
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ruby,rails,react,php,docker,githubactions" />
 
@@ -12,6 +12,7 @@
 <div align="left"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minamimishima&count_private=true&theme=light&layout=compact" />
 </div>
+-->
 
 <!--
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=minamimishima&theme=light&layout=compact" />
